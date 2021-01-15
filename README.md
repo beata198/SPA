@@ -1,6 +1,6 @@
 # API 
 
 
-cd projekt
-npm install
-npm start
+cd projekt \
+// npm install \
+npm start 
